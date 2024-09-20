@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**expein/expein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Santiago Alzate Olivero, un desarrollador FullStack apasionado por la tecnología y la programación.
 
-Here are some ideas to get you started:
+## Mis Redes Sociales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [GitHub](https://github.com/expein)
+- [LinkedIn](https://www.linkedin.com/in/santiagoalzateolivero/)
+- [GitLab](https://gitlab.com/santyalzateo05)
+
+## Tecnologías
+
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- y más...
+
+## Proyectos Destacados
+
+- [Proyecto 1](https://github.com/expein/proyecto1)
+- [Proyecto 2](https://github.com/expein/proyecto2)
+
+## Contacto
+
+Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/santiagoalzateolivero/).
