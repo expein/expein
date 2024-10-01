@@ -10,11 +10,9 @@ Soy una persona adaptable que se ajusta rápidamente a nuevos entornos y aprende
 
 ## Tecnologías
 
-- JavaScript
-- TypeScript
-- React
-- Node.js
-- y más...
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
 ## Proyectos Destacados
 
