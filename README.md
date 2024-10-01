@@ -10,9 +10,22 @@ Soy una persona adaptable que se ajusta rápidamente a nuevos entornos y aprende
 
 ## Tecnologías
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://github.com/TU_USUARIO/TU_REPOSITORIO/blob/main/icons/python.png" alt="Python" width="48" height="48" />
+</a>
+<a href="https://www.javascript.com/" target="_blank">
+  <img src="https://github.com/TU_USUARIO/TU_REPOSITORIO/blob/main/icons/javascript.png" alt="JavaScript" width="48" height="48" />
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://github.com/TU_USUARIO/TU_REPOSITORIO/blob/main/icons/react.png" alt="React" width="48" height="48" />
+</a>
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://github.com/TU_USUARIO/TU_REPOSITORIO/blob/main/icons/php.png" alt="PHP" width="48" height="48" />
+</a>
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://github.com/TU_USUARIO/TU_REPOSITORIO/blob/main/icons/django.png" alt="Django" width="48" height="48" />
+</a>
+
 
 ## Proyectos Destacados
 
