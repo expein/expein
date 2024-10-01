@@ -1,4 +1,4 @@
-# ¡Hola! 👋
+# ¡Hola! ![Saludo](https://link-al-gif-de-la-mano-saludando.gif)
 
 Soy Santiago Alzate Olivero, un desarrollador FullStack apasionado por la tecnología y la programación.
 
@@ -24,6 +24,8 @@ Soy Santiago Alzate Olivero, un desarrollador FullStack apasionado por la tecnol
 ## Contacto
 
 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/santiagoalzateolivero/).
+
+## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expein&layout=pie&theme=dark)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=expein&show_icons=true&theme=dark&count)
