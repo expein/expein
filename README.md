@@ -1,11 +1,11 @@
 # ¡Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Soy Santiago Alzate Olivero, un desarrollador FullStack apasionado por la tecnología y la programación.
+Soy una persona adaptable que se ajusta rápidamente a nuevos entornos y aprende con facilidad las dinámicas de trabajo. Estoy dispuesto a adquirir nuevos conocimientos para contribuir efectivamente al equipo.
 
 ## Mis Redes Sociales
 
 - [GitHub](https://github.com/expein)
-- [LinkedIn](https://www.linkedin.com/in/santiagoalzateolivero/)
+- [LinkedIn](https://www.linkedin.com/in/santiago-alzate-b72747265/)
 - [GitLab](https://gitlab.com/santyalzateo05)
 
 ## Tecnologías
@@ -23,7 +23,7 @@ Soy Santiago Alzate Olivero, un desarrollador FullStack apasionado por la tecnol
 
 ## Contacto
 
-Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/santiagoalzateolivero/).
+Enviar 
 
 ## Stats
 
