@@ -5,7 +5,7 @@ Soy una persona adaptable que se ajusta rápidamente a nuevos entornos y aprende
 ## Mis Redes Sociales
 
 - [GitHub](https://github.com/expein)
-- [LinkedIn](https://www.linkedin.com/in/santiago-alzate-b72747265/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-alzate-b72747265/)
 - [GitLab](https://gitlab.com/santyalzateo05)
 
 ## Tecnologías
