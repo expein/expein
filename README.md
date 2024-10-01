@@ -25,7 +25,5 @@ Soy Santiago Alzate Olivero, un desarrollador FullStack apasionado por la tecnol
 
 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/santiagoalzateolivero/).
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=expein&show_icons=true&theme=radical&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=expein&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expein&layout=compact&langs_count=8)
-![Pipeline Status](https://gitlab.com/USER/REPO/badges/master/pipeline.svg)
-![Coverage Report](https://gitlab.com/USER/REPO/badges/master/coverage.svg)
