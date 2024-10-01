@@ -10,11 +10,6 @@ Soy una persona adaptable que se ajusta rápidamente a nuevos entornos y aprende
 
 ## Tecnologías
 
-## Proyectos Destacados
-
-- [Proyecto 1](https://github.com/expein/proyecto1)
-- [Proyecto 2](https://github.com/expein/proyecto2)
-
 ## Contacto
 
 Enviar 
