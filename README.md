@@ -1,4 +1,4 @@
-# ¡Hola! ![Saludo](https://link-al-gif-de-la-mano-saludando.gif)
+# ¡Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 Soy Santiago Alzate Olivero, un desarrollador FullStack apasionado por la tecnología y la programación.
 
