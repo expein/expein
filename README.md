@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://th.bing.com/th/id/R.4b695f72ac7737ce5b36508a0058dd02?rik=OPpsrxwzNQF2Og&riu=http%3a%2f%2fwww.web24zone.com%2fwp-content%2fuploads%2f2022%2f10%2f46207-programmer-1.gif&ehk=86cfZHhLfMkMI2vzq55xQ1%2bJRsM99JQkgGiqUE7cTQE%3d&risl=&pid=ImgRaw&r=0" alt="Descripción del GIF" style="height: 500px; object-fit: contain;">
+</p>
+
 # ¡Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 Soy una persona adaptable que se ajusta rápidamente a nuevos entornos y aprende con facilidad las dinámicas de trabajo. Estoy dispuesto a adquirir nuevos conocimientos para contribuir efectivamente al equipo.
@@ -69,8 +73,3 @@ Enviar un correo a [santyalzateo05@gmail.com](mailto:santyalzateo05@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expein&layout=pie&theme=dark)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=expein&show_icons=true&theme=dark&count)
-
-
-<p align="center">
-  <img src="https://th.bing.com/th/id/R.4b695f72ac7737ce5b36508a0058dd02?rik=OPpsrxwzNQF2Og&riu=http%3a%2f%2fwww.web24zone.com%2fwp-content%2fuploads%2f2022%2f10%2f46207-programmer-1.gif&ehk=86cfZHhLfMkMI2vzq55xQ1%2bJRsM99JQkgGiqUE7cTQE%3d&risl=&pid=ImgRaw&r=0" alt="Descripción del GIF" style="height: 500px; object-fit: contain;">
-</p>
