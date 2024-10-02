@@ -47,8 +47,14 @@ Soy una persona adaptable que se ajusta rápidamente a nuevos entornos y aprende
   <a href="https://laravel.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/>
   </a>
-    <a href="https://laravel-livewire.com/" target="_blank"> 
+  <a href="https://laravel-livewire.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original-wordmark.svg" alt="livewire" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="redux" width="40" height="40"/>
   </a>
 </p>
 
