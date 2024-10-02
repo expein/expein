@@ -63,7 +63,7 @@ Soy una persona adaptable que se ajusta rápidamente a nuevos entornos y aprende
 
 ## Contacto
 
-Enviar 
+Enviar un correo a [tu-email@example.com](mailto:santyalzateo05@gmail.com)
 
 ## Stats
 
