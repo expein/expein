@@ -69,3 +69,6 @@ Enviar un correo a [santyalzateo05@gmail.com](mailto:santyalzateo05@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expein&layout=pie&theme=dark)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=expein&show_icons=true&theme=dark&count)
+
+
+![Descripción del GIF](https://th.bing.com/th/id/R.4b695f72ac7737ce5b36508a0058dd02?rik=OPpsrxwzNQF2Og&riu=http%3a%2f%2fwww.web24zone.com%2fwp-content%2fuploads%2f2022%2f10%2f46207-programmer-1.gif&ehk=86cfZHhLfMkMI2vzq55xQ1%2bJRsM99JQkgGiqUE7cTQE%3d&risl=&pid=ImgRaw&r=0)
